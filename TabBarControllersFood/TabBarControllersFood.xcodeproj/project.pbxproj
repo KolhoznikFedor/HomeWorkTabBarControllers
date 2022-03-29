@@ -43,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				8492B54727F30B4100DE86B5 /* TabBarControllersFood */,
+				8492B55627F30B4300DE86B5 /* Info.plist */,
 				8492B54627F30B4100DE86B5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,7 +91,6 @@
 			isa = PBXGroup;
 			children = (
 				8492B55127F30B4300DE86B5 /* Assets.xcassets */,
-				8492B55627F30B4300DE86B5 /* Info.plist */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
